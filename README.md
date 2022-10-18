@@ -11,10 +11,17 @@ Eu sou o Júlio César Lins, sou um Programador Front End, atualmente estou apre
 Minhas Redes:
 <p>
 <a href="https://www.instagram.com/jclins011">
-<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width"22px" src="https://e7.pngegg.com/pngimages/103/197/png-clipart-computer-icons-instagram-icon-text-logo.png" alt="insta-logo"/>
+<img align="left" alt="Instagram" width="26px" src="https://cdn-icons-png.flaticon.com/512/87/87390.png?w=360="insta-logo"/>
 </a>
+<a href="https://www.linkedin.com/in/jclins011">
+<img align="left" alt="Linkedin" width="30px" src="https://i.pinimg.com/originals/13/07/a2/1307a2648e71d531704a0f5a270ea966.png" alt="linkedin-logo"/>
+</a>
+</p>
+<br>
+<br>
+<p align="left">
+<br/>
 
-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="insta-logo"/>
 
 
 
